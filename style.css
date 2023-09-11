@@ -1,0 +1,41 @@
+.parallaxImage1 {
+	height: 100vh;
+	background-image: url("background_one.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.parallaxImage2 {
+	height: 600px;
+	background-image: url("background_two.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.parallaxImage3 {
+	height: 600px;
+	background-image: url("background_three.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
